@@ -1,4 +1,4 @@
 ---
-title: Welcome to my portfolio
+Portfolio: Britton Schiff
 ---
 
